@@ -12,7 +12,7 @@
         "noImplicitReturns": true,
         "forceConsistentCasingInFileNames": true
     },
-    "files": [
-        "stack/dev/index.ts"
+    "include": [
+        "stacks/**/*.ts",
     ]
 }
